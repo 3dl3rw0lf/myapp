@@ -3,7 +3,6 @@ import { product } from "../assets/producto";
 import CardProd from "../components/CardProd";
 
 const Product = () => {
-
 	const img = product.img;
 	const title = product.title;
 	const descripcion = product.descripcion;
