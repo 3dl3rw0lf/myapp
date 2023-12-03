@@ -1,7 +1,7 @@
-const ButtonBuy = ({onClick}) => {
+const ButtonBuy = () => {
 
     return(
-        <button className="btn btn-primary" onClick={onClick}>COMPRAR</button>
+        <button className="btn btn-primary">COMPRAR</button>
     )
 }
 export default ButtonBuy;
